@@ -206,6 +206,5 @@ The SSOL staking contract provides a secure and efficient way for users to stake
 
 ## References
 
-- [Solana Program Documentation](https://docs.solana.com/developing/runtime-facilities/programs)
 - [Anchor Framework](https://www.anchor-lang.com/)
 - [Rust Documentation](https://doc.rust-lang.org/book/)
