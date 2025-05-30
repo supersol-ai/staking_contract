@@ -203,8 +203,3 @@ pub struct StakePool {
 ## Conclusion
 
 The SSOL staking contract provides a secure and efficient way for users to stake their tokens and earn rewards. The implementation focuses on security, gas efficiency, and user experience while maintaining flexibility for future improvements.
-
-## References
-
-- [Anchor Framework](https://www.anchor-lang.com/)
-- [Rust Documentation](https://doc.rust-lang.org/book/)
